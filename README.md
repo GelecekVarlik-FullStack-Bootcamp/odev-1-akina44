@@ -5,7 +5,7 @@
 
 ######  .bak, .sql formatı ve MSSQL veri tabanı diyagramı
 
-[![image](https://r.resimlink.com/35KARbYBz.jpg)]
+[![image](https://r.resimlink.com/35KARbYBz.jpg)](https://resimlink.com/35KARbYBz)
 
 ## Homework 2
 
